@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+           {
+            "user": "Rumble1978",
+            "link": "https://youtu.be/tXEyWammASQ",
+            "percent": 100,
+            "hz": 240
+            "enjoyment" : 10
+        },
     ]
 }
