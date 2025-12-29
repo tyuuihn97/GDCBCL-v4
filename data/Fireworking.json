@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+         {
+            "user": "Rumble1798",
+            "link": "https://www.youtube.com/watch?v=tXEyWammASQ",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
