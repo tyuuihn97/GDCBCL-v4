@@ -2,4 +2,25 @@
     {
         "role": "owner",
         "name": "Tyuu6ihn",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
+    {
+        "role": "adminSklork Admin",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "helper",
+        "name": "Aqwav",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Duck",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "Celeste",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }
+]
