@@ -7,6 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=9M18Ub86iSQ&feature=youtu.be",
     "percentToQualify": "100",
     "password": "",
-    "records": [
+    "records": [c
+                    {
+            "user": "Sklork",
+            "link": "https://www.youtube.com/watch?v=E3IBonvFMzM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Syrup",
+            "link": "https://youtu.be/uaQxJIGY3zE?si=QzGUM84xHNoCoRd4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
