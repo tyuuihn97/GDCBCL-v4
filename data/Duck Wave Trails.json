@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+             {
+            "user": "Syrup",
+            "link": "https://youtu.be/ozKsEzdDr48",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "CelesteGD",
+            "link": "https://www.youtube.com/watch?v=YAJJ0zaSTJY",
+            "percent": 100,
+            "hz": 240
+        },
+          {
+            "user": "Senuma",
+            "link": "https://www.youtube.com/watch?v=P2b-4vqGDGM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
