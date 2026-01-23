@@ -3,17 +3,11 @@
     "name": "Hya's Flower Garden",
     "author": "PFazure",
     "creators": ["PFazure"],
-    "verifier" : "PFazure",
-    "verification": "https://youtu.be/9g0FS2aKKr4",
+    "verifier" : "Antohi",
+    "verification": "https://youtu.be/_XB2qMpueOU",
     "percentToQualify": "100",
     "password": "",
     "records": [
-         {
-            "user": "Antohi",
-            "link": "https://youtu.be/_XB2qMpueOU",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "Syrup",
             "link": "https://youtu.be/F8M0g8f4Tl0",
