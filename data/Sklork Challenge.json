@@ -14,11 +14,18 @@
             "percent": 100,
             "hz": 240
         },
-                {
+        {
             "user": "Syrup",
             "link": "https://youtu.be/AIyeHV4563I?si=pla_RqZrClJ1oHVG",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Antohi",
+            "link": "https://youtu.be/BfKSCGBK-rQ",
+            "percent": 100,
+            "hz": 240
+            }
+
     ]
 }
