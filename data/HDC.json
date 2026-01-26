@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+                {
+            "user": "CelesteGD",
+            "link": "https://youtu.be/rOkkLx_juTU",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
