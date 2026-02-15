@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+        {
+            "user": "Smilli",
+            "link": "https://www.youtube.com/watch?v=E_LnI4pSuzc",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
