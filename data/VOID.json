@@ -1,6 +1,6 @@
 {
     "id": 132159092,
-    "name": "VO1DING",
+    "name": "VO1D",
     "author": "CelesteGD",
     "creators": ["CelesteGD"],
     "verifier": "CelesteGD",
@@ -13,7 +13,13 @@
             "link": "https://www.youtube.com/watch?v=rVlBWWKWSfY",
             "percent": 100,
             "hz": 240
-        }
+        },
+                {
+            "user": "Toupeurvibreur",
+            "link": "https://youtu.be/jfRoIXJEHB0",
+            "percent": 100,
+            "hz": 240
+            }
 
     ]
 }
