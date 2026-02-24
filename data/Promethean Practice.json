@@ -49,6 +49,12 @@
             "link": "No Vid rn",
             "percent": 57,
             "hz": 360
-        }
+        },
+        {
+            "user": "Toupeurvibreur",
+            "link": "https://youtu.be/FKfzT_sUvPc",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
