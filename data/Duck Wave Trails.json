@@ -1,6 +1,6 @@
 {
     "id": 130555060,
-    "name": "Duck Dart Trails",
+    "name": "Duck Dart Trials",
     "author": "Antohi",
     "creators": ["Antohi" , "Rumble 1798"], 
     "verifier": "Antohi",
@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=uFcvkOK44RE",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Toupeurvibreur",
+            "link": "https://youtu.be/jfRoIXJEHB0",
+            "percent": 100,
+            "hz": 240
+            }
     ]
 }
