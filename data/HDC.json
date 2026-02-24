@@ -5,7 +5,7 @@
     "creators": ["Rumble1798"],
     "verifier": "Antohi",
     "verification": "https://youtu.be/19dv9mslxmg",
-    "percentToQualify": "100",
+    "percentToQualify": "50",
     "password": "",
     "records": [
                 {
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/rOkkLx_juTU",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+            "user": "Toupeurvibreur",
+            "link": "https://youtu.be/jfRoIXJEHB0",
+            "percent": 100,
+            "hz": 240
+            }
     ]
 }
