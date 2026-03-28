@@ -8,5 +8,11 @@
     "percentToQualify": "54",
     "password": "",
     "records": [
+               {
+            "user": "Toupeurvibreur",
+            "link": "https://youtu.be/0AV1q370oMA",
+            "percent": 100,
+            "hz": 240
+            }
     ]
 }
