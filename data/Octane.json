@@ -37,7 +37,13 @@
             "link": "https://www.youtube.com/watch?v=VrsQKn1bkXY",
             "percent": 100,
             "hz": 240
-            }
+            },
+                {
+            "user": "CelesteGD",
+            "link": "https://youtu.be/_3K2CmeCeiw",
+            "percent": 100,
+            "hz": 240
+        },
         
     ]
 }
