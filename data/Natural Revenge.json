@@ -1,1 +1,18 @@
-
+{
+    "id": 102647436,
+    "name": "TY IS THE BEST BOW DOWN TO HIM",
+    "author": "RIOT",
+    "creators": ["TY IS BEST BOW DOWN TO HIM"],
+    "verifier": "tyuu6ihn",
+    "verification": "https://www.youtube.com/watch?v=WIjuyPd3kck",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+                {
+            "user": "Toupeurvibreur",
+            "link": "https://youtu.be/jfRoIXJEHB0",
+            "percent": 100,
+            "hz": 240
+            }
+    ]
+}
