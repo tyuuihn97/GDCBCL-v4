@@ -3,46 +3,10 @@
     "name": "TY IS THE BEST BOW DOWN TO HIM",
     "author": "PFazure",
     "creators": ["PFazure"],
-    "verifier" : "Antohi",
-    "verification": "https://youtu.be/_XB2qMpueOU",
+    "verifier" : "aspect",
+    "verification": "https://www.youtube.com/watch?v=VrsQKn1bkXY",
     "percentToQualify": "51",
     "password": "",
     "records": [
-        {
-            "user": "Syrup",
-            "link": "https://youtu.be/F8M0g8f4Tl0",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "tyuu6ihn",
-            "link": "https://youtu.be/bzZpIYJ0eMk",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Smilli",
-            "link": "https://www.youtube.com/watch?v=as-pbsAe95w",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "CelesteGD",
-            "link": "https://youtu.be/9ijUa6TSH7Y",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Toupeurvibreur",
-            "link": "https://youtu.be/jfRoIXJEHB0",
-            "percent": 100,
-            "hz": 240
-            },
-                    {
-            "user": "aspect",
-            "link": "https://www.youtube.com/watch?v=VrsQKn1bkXY",
-            "percent": 100,
-            "hz": 240
-            }
     ]
 }
