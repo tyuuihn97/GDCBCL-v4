@@ -8,5 +8,11 @@
     "percentToQualify": "54",
     "password": "",
     "records": [
+                {
+            "user": "Antohi",
+            "link": "https://youtu.be/maUsvGdfjqY?si=cBYLI54kP8D7wolu",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
