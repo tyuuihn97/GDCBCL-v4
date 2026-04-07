@@ -1,24 +1,12 @@
 {
-    "id": 132099626,
-    "name": "Thoughtless",
+    "id": 137567451,
+    "name": "Nafas",
     "author": "CelesteGD",
-    "creators": ["CelesteGD"],
+    "creators": ["Rumble1798"],
     "verifier": "CelesteGD",
-    "verification": "https://youtu.be/sn8wuIeftk0",
+    "verification": "https://youtu.be/YDoYVoDyte0?si=JNDxK6R1laacidsJ",
     "percentToQualify": "100",
     "password": "",
     "records": [
-        {
-            "user": "Smilli",
-            "link": "https://www.youtube.com/watch?v=E_LnI4pSuzc",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Toupeurvibreur",
-            "link": "https://youtu.be/jfRoIXJEHB0",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
